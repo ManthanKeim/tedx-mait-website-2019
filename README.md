@@ -22,5 +22,5 @@ MIT
 -[Abhishek Nigam](https://github.com/abhishek-nigam/)
 
 TEDx and TEDxMAIT are properties of their respective owners. And they are used here with their prior permission.
-
+Done - sponsorship head
 *last uplated: 11 July 2019*
